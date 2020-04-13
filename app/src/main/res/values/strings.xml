@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">firebase</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="title_activity_map_activity">Map</string>
+    <string name="thankyou">धन्यवाद</string>
+    <string-array name="spinner_language">
+        <item>"English"</item>
+        <item>"Marathi"</item>
+        <item>"Hindi"</item>
+    </string-array>
+    <string-array name="spinner_state">
+        <item>"Gujrat"</item>
+        <item>"Maharashtra"</item>
+        <item>"Goa"</item>
+    </string-array>
+    <string-array name="spinner_district">
+        <item>"Aurangabad"</item>
+        <item>"Pune"</item>
+        <item>"Nagpur"</item>
+    </string-array>
+    <string-array name="spinner_taluka">
+        <item>"Gangapur"</item>
+        <item>"Sillod"</item>
+        <item>"Paithan"</item>
+    </string-array>
+
+    <string name="sugarcane_wilt">\n
+        The first symptom of the disease is visible in the canes of 4-5 month age. The canes may wither in groups. The affected plants are stunted with yellowing and withering of crown leaves. The midribs of all leaves in a crown generally turn yellow, while the leaf lamina may remain green. The leaves dry up and stem develop hollowness in the core. </string>
+    <string name="sugarcane_wilt1"> \t  The core shows the reddish discolouration with longitudinal red streaks passing from one internode to another. In severe cases, spindle shaped cavities tapering towards the nodes develop in each internode. The canes emit a disagreeable odour, with lot of mycelial threads of the fungus cover the cavity."</string>
+    <string name="onion_disease">Onion, Allium cepa, is an herbaceous biennial in the family Liliaceae grown for its edible bulb. The stem of the plant is a flattened disc at the base and the tubular leaves form a pseudostem where their sheaths overlap. \n\tThe leaves are either erect or oblique and there are 3–8 per plant. The onion plant produces pink or white flowers clustered on stalks. The bulbs are formed just above the flattened stem of the plant by overlapping leaves. The bulb is made up of several layers, each corresponding to a leaf.</string>
+    <string name="sugarcane_solu">1.Select the seed material from the disease-free plots.\n
+2.Avoid the practice of ratooning in diseased fields.\n
+3.Burn the trashes and stubbles in the field.\n
+4.Grow coriander or mustard as a companion crop in the early stages of crop.\n
+5.Dip the setts in 40ppm Boran or Manganese for 10 minutes or in 0.25% Emisan or 0.05% Carbendazim for 15 minutes.</string>
+    <string name="onion_sol1">it is caused by soil borne fungal pathogens. Heavy summer showers cause huge mortality in the crop. Integrated approach is an effective and sustainable tool for the management of damping off disease in onion nursery.</string>
+    <string name="onion_sol2">Farmers are advised to grow Agrifound Dark Red, Arka Kalyan, N-53, Baswant-780, Bheema Raj and Bheema Red for north Indian regions and Agrifound Red, Co-1, Co-2, Co-3, Co-4 and Co-On-5 are suitable for Southern areas.</string>
+    <string name="blight_tom1">Early blight is sometimes confused with Septoria leaf spot. They both form spots on the leaves, which eventually turn yellow and die off, but Septoria also forms fruiting bodies that look like tiny filaments coming from the spots.</string>
+    <string name="blight_tom">On Older Plants: Dark spots with concentric rings develop on older leaves first. The surrounding leaf area may turn yellow. Affected leaves may die prematurely, exposing the fruits to sun scald.</string>
+    <string name="blight_tom2">Dark lesions on the stems start off small and slightly sunken. As they get larger, they elongate and you will start to see concentric markings like the spots on the leaves. Spots that form near ground level can cause some girdling of the stem or collar rot. Plants may survive, but they will not thrive or produce many tomatoes.
+</string>
+    <string name="blight_sol">If treated plants show signs of continuing infection or if unsprayed plants succumb to late blight, take action immediately:\n\n
+
+1. Pull up the plants and either seal them tightly in a trash bag, or secure them under black plastic,where the suns heat can kill the spores.\n
+2. Do not compost blight-infected plants.\n
+3. If left unattended, the disease will spread quickly from your plants to those of your neighbors and local farmers. Please, garden responsibly!\n</string>
+    <string name="rhizome_turmeric">1. The infection starts at the collar region of the pseudostem and progresses upwards as well as downwards.
+2. The collar region of the affected pseudostem becomes water soaked and the rotting spreads to the rhizome resulting in soft rot.\n
+3. At a later stage root infection is also noticed.\n
+4. Foliar symptoms appear as light yellowing of the tips of lower leaves which gradually spreads to the leaf blades.\n
+5. In early stages of the disease, the middle portion of the leaves remain green while the margins become yellow.\n</string>
+    <string name="rhizome_sol">1. Healthy rhizomes should be selected from disease free area for sowing. Seed multiplied by tissue culture is very suitable for sowing.\n
+2. Grow resistant cultivars like Suvarna, Sugauna and Sudarsana.\n
+3. Restricted crop rotation or intercropping suitable for Telangana is with maize and chillies.\n
+4. Grow the crop in light soil and avoid water stagnation.\n
+5. Remove diseased plant from the field\n
+6. Seed treatment is a must. Keep Rhizomes in 3gm Mancozeb or 1gm Carbendazim or 3gm Ridomil M.Z or 2.5 gm Metalaxyl mixed in one litre of water solution for one hour and shade dry before planting.\n\n</string>
+    <string name="rust_wheat">Rust diseases represent the most economically significant fungal diseases in wheat and other cereal crops worldwide, and they are widely distributed across wheat growing regions. With the capacity to form new strains of fungus, rusts can attack even previously resistant varieties. Rust diseases possess the ability to spread and travel long distances by dispersal of windborne spores and can rapidly develop under optimal weather conditions.\n
+</string>
+    <string name="rust_sol1">Farmers have several options to manage wheat rusts, ranging from seed treatments, variety selection, scouting, cultural practices and fungicide applications.
+
+Seed treatments
+Using the correct fungicide seed treatment and rate is one way to provide effective and economical disease control in wheat production. Seed treatments protect seed and young plants from disease and other threats to plant health and yield.  Areas commonly infested with rust also will need a foliar fungicide treatment to provide protection beyond the seedling growth stage.</string>
+    <string name="rust_sol2">Farmers have several options to manage wheat rusts, ranging from seed treatments, variety selection, scouting, cultural practices and fungicide applications.
+
+Seed treatments
+Using the correct fungicide seed treatment and rate is one way to provide effective and economical disease control in wheat production. Seed treatments protect seed and young plants from disease and other threats to plant health and yield.  Areas commonly infested with rust also will need a foliar fungicide treatment to provide protection beyond the seedling growth stage.
+</string>
+    <string name="rust_sol3">Variety selection\n
+Where available, use rust-resistant varieties for best protection against leaf rusts. Every commercially available wheat variety has a unique disease package, and excellent disease resistance is not available to manage all disease threats in high-yielding varieties. It’s best to select two or three high-yielding varieties that offer the best resistance to common diseases found on your individual farm.
+    </string>
+    <string name="rust_sol4">Scouting
+When scouting for weeds and insects, check for the presence of wheat rusts and other diseases. Monitor reports of wheat rust development occurring in states south of your area. This will allow you to track the progression of rust diseases migrating north from overwintering hosts and will also help you predict the timing and severity of infestations before they might affect your region. Keep a close eye on weather conditions because rust spores spread through wind currents to promote disease infection.
+    </string>
+    <string name="cutworm_cotton">Several species of cutworms are found in New York; the black cutworm is most commonly found in corn. The adults (moths) migrate into the state from the southern overwintering sites on the spring storms and are attracted to weeds on which they lay their eggs. One or more generations may occur per year, but it is the first generation which causes economic loss in NY corn. Cutworm larvae are large (1 to 2 inches long when fully grown), smooth, dull-colored caterpillars, which curl tightly when handled.
+    </string>
+    <string name="cutworm_cotton2">They hide in the soil during the day and feed at night at the base of small corn plants during May and June. Symptoms include missing, cut, or wilted plants. The large, nearly mature larvae do most of the feeding damage. Each one is capable of destroying several plants, and damage may appear very suddenly as the larvae grow larger.
+</string>
+    <string name="cutworm_sol">The key to cutworm control is to monitor emerging plants closely, particularly in fields with conditions favoring cutworm outbreaks. These conditions include late planting; weed infestations; low, wet areas; and fields previously in pasture or sod. Cutworm problems may be worse in fields planted with minimum or no tillage. Plowing, good weed control, and early planting should help reduce cutworm problems.
+    </string>
+    <string name="cutworm_sol1">Check fields every two or three days until plants are well established for signs of missing, cut, or wilted plants. Search for the larvae in the soil near damaged plants. Treatment is suggested (Table 3.6.1) if 5 percent or more of the plants have been cut. Cutworm larvae should be controlled while small – 1/2 inch long or less. Since the larvae are active at night, chemicals should be applied late in the day. When the soil is dry and crusted, larvae remain beneath the soil surface and will be difficult to control.
+    </string>
+    <string name="cutworm_sol3">Only the infested area and a 20- to 40-foot surrounding border need be treated. Direct the spray at the base of the plants. Portions of the field may need to be disked and replanted if damage has gone beyond the point of control.
+Application of soil insecticides at planting does not provide effective control of cutworms despite claims by the insecticide manufacturer\n\n</string>
+    <string name="thank_you">thank_you</string>
+</resources>
+

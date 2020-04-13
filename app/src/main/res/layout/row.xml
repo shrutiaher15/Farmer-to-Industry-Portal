@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="#fff"
+    app:cardCornerRadius="3dp"
+    app:cardElevation="3dp"
+    app:contentPadding="5dp"
+    app:cardUseCompatPadding="true"
+    android:background="@color/RoyalBlue">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:textColor="@android:color/black"
+            android:background="@drawable/ccolor"
+            android:fontFamily="@font/montserrat"
+            android:id="@+id/indname"
+            android:layout_width="300dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Title"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="40dp"
+        app:srcCompat="@drawable/cart" />
+
+    <TextView
+        android:textColor="@android:color/black"
+        android:background="@drawable/ccolor"
+        android:fontFamily="@font/montserrat"
+        android:id="@+id/quuu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="40dp"
+        android:text="Quantity"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/ph_no"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="240dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/ccolor"
+        android:fontFamily="@font/montserrat"
+        android:gravity="right|center"
+        android:text="price"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_marginTop="20dp"
+                android:id="@+id/imageView5"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                app:srcCompat="@drawable/grass" />
+        </LinearLayout>
+</androidx.cardview.widget.CardView>
